@@ -1,18 +1,56 @@
-<h1 align="center">Hi 👋, I'm Suman Mushaykwho</h1>
-<h3 align="center">A passionate backend Python Django developer from Nepal</h3>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBzd3IyaDVoNjhzMWZxejk1d2MwZ2h0cHpmNm5iajA5bHVvOTJqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Giphy Image">
+### Hi there, I'm Suman 👋
 
+![Welcome](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=451suman&label=Profile%20views&color=0e75b6&style=flat" alt="451suman" /> </p>
+I'm a passionate developer who loves to explore and build amazing software solutions. Here's a little more about me:
 
-- 🔭 I’m currently working on [Khwopa Ecommerce](https://github.com/451suman/KhwopaEcommerce.git)
+- 🌱 Currently learning and working on ASP.NET Core, PHP, and more.
+- 🚀 Always excited to take on new challenges and explore new technologies.
+- 🛠️ Proficient in Java, C#, PHP, HTML, CSS, JavaScript, and more.
 
-- 🌱 I’m currently learning **Python, Django**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🚀 Skills & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+![Java](https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif) ![C#](https://media.giphy.com/media/fwbzI2kS9E5cVwTdgB/giphy.gif) ![PHP](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
+- **Languages:** Java, C#, PHP, HTML, CSS, JavaScript
+- **Frameworks:** ASP.NET Core, Spring Boot, Hibernate
+- **Tools:** Git, GitHub, XAMPP, Apache Tomcat
+- **Database:** MySQL, SQL Server
+
+---
+
+### 🌍 Connect with Me
+
+![Connect](https://media.giphy.com/media/1n2zW3kCvaG4k/source.gif)
+
+- [![GitHub](https://img.shields.io/badge/GitHub-451suman-blue?style=flat-square&logo=github)](https://github.com/451suman)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-sumanmushyakhwo.com.np-orange?style=flat-square&logo=web)](https://sumanmushyakhwo.com.np/)
+- [![Email](https://img.shields.io/badge/Email-sumanmushyakhwo@gmail.com-red?style=flat-square&logo=gmail)](mailto:sumanmushyakhwo@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
+![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=451suman&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=451suman&layout=compact&theme=radical)
+
+---
+
+### 🎉 Fun Facts
+
+![Fun](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+- I'm a huge fan of [insert favorite technology/tool].
+- I love to collaborate on open-source projects.
+- I'm always up for a coding challenge!
+
+---
+
+![Thanks](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about tech. 😄
