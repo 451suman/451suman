@@ -1,56 +1,49 @@
-### Hi there, I'm Suman 👋
-
 ![Welcome](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+<a href="https://dev.to/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="www.facebook.com" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Suman Mushaykwho</h1>
+<h3 align="center">A passionate backend Python Django developer from Nepal</h3>
 
-I'm a passionate developer who loves to explore and build amazing software solutions. Here's a little more about me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=451suman&label=Profile%20views&color=0e75b6&style=flat" alt="451suman" /> </p>
 
-- 🌱 Currently learning and working on ASP.NET Core, PHP, and more.
-- 🚀 Always excited to take on new challenges and explore new technologies.
-- 🛠️ Proficient in Java, C#, PHP, HTML, CSS, JavaScript, and more.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=451suman" alt="451suman" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/www.facebook.com" target="blank"><img src="https://img.shields.io/twitter/follow/www.facebook.com?logo=twitter&style=for-the-badge" alt="www.facebook.com" /></a> </p>
 
-### 🚀 Skills & Technologies
+- 🔭 I’m currently working on [Khwopa Ecommerce](https://github.com/451suman/KhwopaEcommerce.git)
 
-![Java](https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif) ![C#](https://media.giphy.com/media/fwbzI2kS9E5cVwTdgB/giphy.gif) ![PHP](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+- 🌱 I’m currently learning **Python, Django**
 
-- **Languages:** Java, C#, PHP, HTML, CSS, JavaScript
-- **Frameworks:** ASP.NET Core, Spring Boot, Hibernate
-- **Tools:** Git, GitHub, XAMPP, Apache Tomcat
-- **Database:** MySQL, SQL Server
+- 👨‍💻 All of my projects are available at [https://github.com/451suman?tab=repositories](https://github.com/451suman?tab=repositories)
 
----
+- 📫 How to reach me **sumanmushyakhwo@gmail.com**
 
-### 🌍 Connect with Me
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-![Connect](https://media.giphy.com/media/1n2zW3kCvaG4k/source.gif)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="www.facebook.com" height="30" width="40" /></a>
+<a href="https://twitter.com/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="www.facebook.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.facebook.com" height="30" width="40" /></a>
+<a href="https://fb.com/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com" height="30" width="40" /></a>
+<a href="https://instagram.com/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.facebook.com" height="30" width="40" /></a>
+<a href="https://www.behance.net/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="www.facebook.com" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.facebook.com" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="www.facebook.com" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="www.facebook.com" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="www.facebook.com" height="30" width="40" /></a>
+<a href="https://discord.gg/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="www.facebook.com" height="30" width="40" /></a>
+</p>
 
-- [![GitHub](https://img.shields.io/badge/GitHub-451suman-blue?style=flat-square&logo=github)](https://github.com/451suman)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-sumanmushyakhwo.com.np-orange?style=flat-square&logo=web)](https://sumanmushyakhwo.com.np/)
-- [![Email](https://img.shields.io/badge/Email-sumanmushyakhwo@gmail.com-red?style=flat-square&logo=gmail)](mailto:sumanmushyakhwo@gmail.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
----
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sumanmushyakhwo_coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sumanmushyakhwo_coffee" /></a><a href="https://ko-fi.com/sumanmushyakhwo_coffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sumanmushyakhwo_coffee" /></a></p><br><br>
 
-### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=451suman&show_icons=true&locale=en&layout=compact" alt="451suman" /></p>
 
-![Stats](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=451suman&show_icons=true&locale=en" alt="451suman" /></p>
 
-![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=451suman&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=451suman&layout=compact&theme=radical)
-
----
-
-### 🎉 Fun Facts
-
-![Fun](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-- I'm a huge fan of [insert favorite technology/tool].
-- I love to collaborate on open-source projects.
-- I'm always up for a coding challenge!
-
----
-
-![Thanks](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
-
-Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about tech. 😄
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=451suman&" alt="451suman" /></p>
