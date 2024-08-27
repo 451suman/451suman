@@ -1,5 +1,4 @@
-![Welcome](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-<a href="https://dev.to/www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="www.facebook.com" height="30" width="40" /></a>
+
 <h1 align="center">Hi 👋, I'm Suman Mushaykwho</h1>
 <h3 align="center">A passionate backend Python Django developer from Nepal</h3>
 
