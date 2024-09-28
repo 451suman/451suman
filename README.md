@@ -11,8 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/www.facebook.com" target="blank"><img src="https://img.shields.io/twitter/follow/www.facebook.com?logo=twitter&style=for-the-badge" alt="www.facebook.com" /></a> </p>
 
-- 🔭 I’m currently working on [BAZAR E-COMMERCE](https://github.com/451suman/BAZAR.git)
-
+- 🔭 I’m currently working on - [BAZAR E-Commerce](https://github.com/451suman/BAZAR.git), [News Portal](https://github.com/451suman/news-portal.git)
 - 🌱 I’m currently learning **Python, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/451suman?tab=repositories](https://github.com/451suman?tab=repositories)
