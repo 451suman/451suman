@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/www.facebook.com" target="blank"><img src="https://img.shields.io/twitter/follow/www.facebook.com?logo=twitter&style=for-the-badge" alt="www.facebook.com" /></a> </p>
 
-- 🔭 I’m currently working on [Khwopa Ecommerce](https://github.com/451suman/KhwopaEcommerce.git)
+- 🔭 I’m currently working on [BAZAR E-COMMERCE](https://github.com/451suman/BAZAR.git)
 
 - 🌱 I’m currently learning **Python, Django**
 
