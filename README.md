@@ -38,4 +38,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/greed-d/greed-d/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/greed-d/451suman/output/snake.svg" alt="Snake animation" />
